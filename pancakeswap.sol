@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.7;
+pragma solidity ^0.6.6;
   
  import '@uniswap/v2-core/contracts/interfaces/IPancakeFactory.sol'; 
  import '@uniswap/lib/contracts/libraries/TransferHelper.sol'; 
